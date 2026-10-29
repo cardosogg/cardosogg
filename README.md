@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou o Gabriel 👋
 
-<!--
-**cardosogg/cardosogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduando em Análise e Desenvolvimento de Sistemas com foco em Engenharia e Análise de Dados. Desenvolvo pipelines de dados de ponta a ponta, desde a ingestão via API até o armazenamento relacional e dashboards de visualização.
 
-Here are some ideas to get you started:
+### 🛠️ Stacks & Ferramentas
+- **Linguagens & Análise:** Python (Pandas, Matplotlib), SQL
+- **Engenharia de Dados & ETL:** Apache Airflow, Docker, PostgreSQL
+- **Dashboards & Front-end:** Streamlit, Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projetos em Destaque
+- **[Pokemon Analytics](https://github.com/cardosogg/pokemon-analytics):** Pipeline ETL ponta a ponta (PokéAPI -> Airflow -> PostgreSQL -> Streamlit).
+- **[Breaking Data Project](https://github.com/cardosogg/breaking-data-project):** Análise de dados e visualizações com foco nos eventos de Breaking.
+
+📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/gabriel-cardoso-data-engineer/) | Email: contato.comercialgd@gmail.com
