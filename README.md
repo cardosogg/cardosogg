@@ -45,8 +45,7 @@ Análise exploratória e estruturação de dados aplicados a métricas e eventos
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=cardosogg&theme=dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardosogg&layout=compact&theme=dark&hide=html,css" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cardosogg&theme=dark" />
 </p>
 
 ---
