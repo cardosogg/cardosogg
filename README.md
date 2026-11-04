@@ -40,6 +40,8 @@ Análise exploratória e estruturação de dados aplicados a métricas e eventos
 
 ---
 
+---
+
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
