@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel Cardoso 👋
+# Olá, eu sou o Gabriel
 
 Graduando em **Análise e Desenvolvimento de Sistemas** focado em **Engenharia e Arquitetura de Dados**. 
 Especializado na construção de pipelines ETL/ELT eficientes, arquiteturas modernas de data lakehouse e orquestração de fluxos de dados de ponta a ponta.
